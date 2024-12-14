@@ -1,8 +1,19 @@
-# Geyser Extension Template
-A Geyser Extension template for creating Geyser Extensions. 
+# GeyserMCViaBedrock
+A Geyser Extension that uses ViaBedrock to Disguise Java Players into bedrock players.\
+this plugin was supposed to be weapon of Approximaster Republic.\
+which makes [Villa](https://github.com/Villagers654) think that this is Normal Geyser Extension. but it's actually a backdoor that lets our terrorist enter, causing endzone.me destroyed.\
+if you want me to get added in list-of-shame like this\
+Outfit8TSB - Nuked Villagers654's server\
+i will take that but PurpurMC Really Deserves their potential customer get nuked.
+
+## How does it work?
+ViaBedrock is a reverse thing that lets java enter into BE Server.
+it does not require fabric mod to run.
+however it's beta.
+but it will work i swear
 
 ## What are Geyser extensions?
-Geyser Extensions are the equivalent of “plugins”, but specifically for the Geyser platform. This brings the advantage of them being platform-agnostic, meaning that you won’t have to worry about supporting all platforms individually. Additionally, they will be, by design, only applied for Bedrock players joining via Geyser.
+Geyser Extensions are the equivalent of “plugins”, but specifically for the Geyser platform. This brings the advantage of them being platform-agnostic, meaning that you won’t have to worry about supporting all platforms individually. Additionally, they will be, by design, only applied for Bedrock players joining via Geyser. and since it will be, i can plant a Code to it to let unwanted edition players enter. yes, i am evil for doing that,
 
 ## What can extensions do?
 - Register [custom items](https://wiki.geysermc.org/geyser/custom-items/), [custom blocks](https://wiki.geysermc.org/geyser/custom-blocks/#geyser-extensions) and more in code!
